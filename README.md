@@ -2,7 +2,7 @@
 # E-Commerce & Retail B2B Case Study Analysis
 
 ## Introduction
-his case study delves into the B2B segment of a multinational retail company dealing in sports goods, focusing on the challenge of managing credit terms and timely payments from business clients.
+This case study delves into the B2B segment of a multinational retail company dealing in sports goods, focusing on the challenge of managing credit terms and timely payments from business clients.
 
 ## Problem Statement
 - Schuster is a multinational retail company dealing in sports goods and accessories. Schuster conducts significant business with hundreds of its vendors, with whom it has credit arrangements. Unfortunately, not all vendors respect credit terms and some of them tend to make payments late. Schuster levies heavy late payment fees, although this procedure is not beneficial to either party in a long-term business relationship. The company has some employees who keep chasing vendors to get the payment on time; this procedure nevertheless also results in non-value-added activities, loss of time and financial impact. Schuster would thus try to understand its customers’ payment behaviour and predict the likelihood of late payments against open invoices.
